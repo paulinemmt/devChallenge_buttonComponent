@@ -1,0 +1,19 @@
+{
+  "name": "button-component-master",
+  "version": "1.0.0",
+  "description": "<!-- Please update value in the {}  -->",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paulinemmt/devChallenge_buttonComponent.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paulinemmt/devChallenge_buttonComponent/issues"
+  },
+  "homepage": "https://github.com/paulinemmt/devChallenge_buttonComponent#readme"
+}
