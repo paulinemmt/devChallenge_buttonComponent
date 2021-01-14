@@ -1,0 +1,56 @@
+body {
+  color: #303030;
+  text-align: center;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+  text-transform: uppercase;
+  font-weight: bold;
+  text-shadow: 0.2rem 0.2rem 0.5rem #303030;
+}
+
+h2 {
+  font-size: 0.8rem;
+}
+
+h2 a {
+  color: #303030;
+}
+
+button {
+  font-size: 1.2rem;
+  font-weight: bold;
+}
+
+button {
+  background-color: #5989BC;
+  color: #CAD5E0;
+  margin: 1rem;
+  padding: 1rem 1rem;
+  border: 0.1rem solid #0C233B;
+  border-radius: 1rem;
+  transition: font-size 500ms;
+}
+
+button:hover {
+  font-size: 1.5rem;
+  background-color: #CAD5E0;
+  color: #5989BC;
+}
+
+.outline, .text {
+  background-color: #fff;
+  color: #5989BC;
+}
+
+.text {
+  border-color: #fff;
+}
+
+.box-shadow {
+  box-shadow: 0.2rem 0.2rem 0.6rem #303030;
+}

@@ -1,0 +1,28 @@
+button{
+    background-color: $default-color;
+    color: $text-button-color;
+    margin: 1rem;
+    padding: 1rem 1rem;
+    border: 0.1rem solid $border-button-color;
+    border-radius: 1rem;
+    // box-shadow: 0.2rem 0.2rem 0.6rem $text-color;
+    transition: font-size 500ms;
+    &:hover{
+        font-size: 1.5rem;
+        background-color: $text-button-color;
+        color: $default-color;
+    }
+}
+
+.outline, .text{
+    background-color: #fff;
+    color: $default-color;
+}
+
+.text{
+    border-color: #fff;
+}
+
+.box-shadow{
+    box-shadow: 0.2rem 0.2rem 0.6rem $text-color;
+}
